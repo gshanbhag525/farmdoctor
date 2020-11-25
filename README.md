@@ -1,6 +1,7 @@
 # Farmdoctor : Detect and Cure Crop Diseases from your smartphone
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/354da2bf-3b0f-4a41-88a0-b938c3e36e27/deploy-status)](https://app.netlify.com/sites/farmdoctors/deploys)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Steps to Run the Application:
 
