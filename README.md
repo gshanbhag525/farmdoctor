@@ -18,4 +18,4 @@
   
   06. You will get the Webapp ready for Detecting Crop Diseases.
       
-  # LIVE APP : `https://farmdoctors.netlify.app/`
+  # [LIVE APP 🔴](https://farmdoctors.netlify.app/)
