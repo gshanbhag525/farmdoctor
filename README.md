@@ -1,5 +1,7 @@
 # Farmdoctor : Detect and Cure Crop Diseases from your smartphone
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/354da2bf-3b0f-4a41-88a0-b938c3e36e27/deploy-status)](https://app.netlify.com/sites/farmdoctors/deploys)
+
 ## Steps to Run the Application:
 
 **This application requires Python 3.6 or higher and a Localhost server such as XAMPP or WAMP.**
